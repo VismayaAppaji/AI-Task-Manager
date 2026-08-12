@@ -1,0 +1,26 @@
+# Backend
+backend/target/
+backend/*.log
+
+# Eclipse
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.factorypath
+
+# Frontend
+Frontend/node_modules/
+Frontend/dist/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

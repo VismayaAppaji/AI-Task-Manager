@@ -207,6 +207,10 @@ User
 
 # 📂 Project Structure
 
+
+## Project Structure
+
+```text
 AI-Task-Manager/
 │
 ├── frontend/
@@ -241,6 +245,112 @@ AI-Task-Manager/
 ├── .gitignore
 │
 └── README.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 🗄️ Database Design
 

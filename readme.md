@@ -539,19 +539,19 @@ Recommended screenshots include:
 
 ### Task Management
 
-![Task Management](screenshots/tasks.png)
+![Task Management](screenshots/add_tasks.png)
 
-### AI Assistant
+###  edit task
 
-![AI Assistant](screenshots/ai-assistant.png)
+![edit_task](screenshots/edit_task.png)
 
 ### Database
 
-![Database](screenshots/database.png)
+![Database](screenshots/task_table.png)
 
 ### Login
 
-![Login](screenshots/login.png)
+![Login](screenshots/sigin.png)
 
 > Make sure the image filenames in this section exactly match the
 > filenames inside the `screenshots` folder.

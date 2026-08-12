@@ -205,31 +205,35 @@ React Frontend
 User
 ```
 
----
-
 # 📂 Project Structure
 
-```text
 AI-Task-Manager/
 │
 ├── frontend/
-│   │
 │   ├── public/
-│   │
 │   ├── src/
 │   │   ├── assets/
 │   │   ├── App.jsx
 │   │   ├── main.jsx
 │   │   └── index.css
-│   │
 │   ├── package.json
+│   ├── package-lock.json
 │   └── vite.config.js
 │
 ├── backend/
-│   │
 │   └── src/
 │       └── main/
 │           ├── java/
+│           │   └── task_manager_backend/
+│           │       ├── BackendApplication.java
+│           │       ├── controller/
+│           │       ├── dto/
+│           │       ├── entity/
+│           │       ├── exception/
+│           │       ├── repository/
+│           │       ├── security/
+│           │       └── service/
+│           │
 │           └── resources/
 │
 ├── screenshots/
@@ -237,9 +241,6 @@ AI-Task-Manager/
 ├── .gitignore
 │
 └── README.md
-```
-
----
 
 # 🗄️ Database Design
 

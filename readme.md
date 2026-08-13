@@ -1,9 +1,3 @@
-Yes. Since you used **MySQL**, developed the **Java/Spring Boot backend in Eclipse**, and developed the **React frontend in VS Code**, here is the complete cleaned-up README.
-
-I have also removed the **deployment** and **demo video** sections as requested. I’ve avoided claiming a specific AI provider since you haven’t specified which one you used.
-
-Copy everything below into your GitHub `README.md`.
-
 ````markdown
 # AI-Powered Task Management Portal
 
